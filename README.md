@@ -47,8 +47,6 @@ This Tool Allow To Spam Massage and image any Telegram Group No need api and has
 
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=BlackHat-spamx)](https://github.com/BlackHat-Abhi/spamx)
-
 ### Telegram Channel : [Channel](https://t.me/BlackHat_HackerX)
 
 #### Enjoy This TOOL BY Abhi !
